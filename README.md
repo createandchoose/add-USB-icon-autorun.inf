@@ -1,2 +1,4 @@
-# add-USB-icon-autorun.inf
-[autorun] icon=icon.ico label=NAME
+# autorun.inf
+[autorun]
+icon=icon.ico
+label=M.work place
